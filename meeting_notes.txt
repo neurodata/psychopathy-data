@@ -1,0 +1,35 @@
+11/20/2018
+
+Update from their end:
+    - Eric is a faculty member at minds
+    - Very good with R
+    - Got code up and running, tried a bunch of models
+    - 11% error on gender prediction algorithm --> 93% baseline, RerF 89%ish
+    - Playing with numbers of trees, max depth, etc
+    - Indian CS grad student, wants to play with face classification algorithm
+        - * Read paper for that? *
+    - We can get videos now?
+    - Karla: working on paperwork for us still.
+    - Keith: will be able to get homocide data to us
+        - Scheduled to be moving mobile MRI next week
+    - JUST got final permission + approval from 12 judges to give entire recidivism dataset
+        - Digitized every arrest record since 1996
+        - Gonna give entire database labeled by SSN and DOB
+        - Combine arrest records with brain imaging data
+            - Don't have images for everyone, but have images for many!
+            - ~2000 men, ~500 women, ~300 boys (now adults)
+        - Biggest samples for imaging-based prediction in any field
+    - Think about race stuff
+
+
+- Article for speech separation:
+    - By a guy named gao, published this year
+    - Jovo read slides from L2M, people who presented
+    - * SLACK PAPER TO KENT *
+
+TO-DO
+- SLACK PAPER TO KENT
+- READ FACE CLASSIFICATION ALGORITHM
+- Draft email to IRB, let them know about data-sharing agreement, see if they have any questions
+    - Jovo wants to get it approved by dept. rather than IRB
+    - Kent: still prudent to shoot IRB an email.
