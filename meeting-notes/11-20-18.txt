@@ -25,11 +25,9 @@ Update from their end:
 - Article for speech separation:
     - By a guy named gao, published this year
     - Jovo read slides from L2M, people who presented
-    - * SLACK PAPER TO KENT *
 
 TO-DO
-- SLACK PAPER TO KENT
-- READ FACE CLASSIFICATION ALGORITHM
+
 - Draft email to IRB, let them know about data-sharing agreement, see if they have any questions
-    - Jovo wants to get it approved by dept. rather than IRB
-    - Kent: still prudent to shoot IRB an email.
+- Get IRB privacy forms / other paperwork done
+- Get data transferred
