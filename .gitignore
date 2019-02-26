@@ -10,3 +10,10 @@ Reimbursement
 Reimbursement*
 env
 _.py
+*.xlsx
+*.zip
+*.gz.enc
+mrn-course/
+papers/
+*__pycache__
+*.ipynb_checkpoints
